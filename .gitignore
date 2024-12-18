@@ -1,3 +1,6 @@
 .idea
 Application/Runtime/Logs/*
 Application/Runtime/Cache/*
+Application/Runtime/Data/*
+Application/Runtime/Temp/*
+Application/Runtime/*.php

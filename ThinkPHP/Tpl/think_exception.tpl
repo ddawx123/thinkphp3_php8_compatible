@@ -27,7 +27,7 @@ h1{ font-size: 32px; line-height: 48px; }
 <?php if(isset($e['file'])) {?>
 	<div class="info">
 		<div class="title">
-			<h3>错误位置</h3>
+			<h3>Error Location</h3>
 		</div>
 		<div class="text">
 			<p>FILE: <?php echo $e['file'] ;?> &#12288;LINE: <?php echo $e['line'];?></p>
